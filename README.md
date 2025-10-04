@@ -1,0 +1,1 @@
+# Sticky Notes Board  Interactive sticky notes application with drag-and-drop functionality.  ## Features - Add colorful sticky notes - Drag and drop notes anywhere - Change note colors - Delete notes - Auto-save to localStorage - Note counter - Responsive design  ## Setup ```bash npm install npm run dev ```  Open http://localhost:5173
